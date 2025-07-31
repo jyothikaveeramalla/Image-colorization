@@ -34,7 +34,7 @@ PaintBack uses a deep learning model trained on the ImageNet dataset to colorize
 
    ```bash
    git clone https://github.com/jyothikaveerramalla/Image_colorization.git
-   cd Image_colourization
+   cd Image_colorization
 ````
 
 2. Install dependencies:
